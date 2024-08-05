@@ -1,7 +1,3 @@
-Creating a comprehensive README file for your project is an excellent way to document the purpose, functionality, and usage of your guess-a-number game using gRPC with bidirectional streaming. Below is a sample README file that includes sections on the project's overview, setup, usage, testing, and more. Feel free to modify it to fit your specific needs.
-
----
-
 # Guess-a-Number Game with gRPC Bidirectional Streaming
 
 ## Overview
